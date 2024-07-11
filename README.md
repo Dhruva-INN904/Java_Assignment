@@ -6,7 +6,7 @@ This repository contains various assignments completed as part of the Java cours
 
 
 ## Java Assignments
-1. [Java Assignment]
+1. [Java Assignment](#java-assignments)
    - [Assignment 1](#assignment-1)
    - [Assignment 2](#assignment-2)
    - [Assignment 3](#assignment-3)
