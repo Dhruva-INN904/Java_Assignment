@@ -1,3 +1,4 @@
+# Main branch
 # Java_Assignment
 It includes all assignments I had completed till now
 
@@ -25,7 +26,12 @@ This repository contains various assignments completed as part of the Java cours
 1. Clone the repository:
     ```bash
     https://github.com/Dhruva-INN904/Java_Assignment.git
+
     ```
+
+# Master branch
+This includes java_hello and Maven_welocme sample files
+
 
 
 
